@@ -1,0 +1,1 @@
+Парсинг загадок с сайта - https://zagadkivse.ru/hitrye-zagadki/
