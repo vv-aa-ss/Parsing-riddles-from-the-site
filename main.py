@@ -58,7 +58,7 @@ def pars_html(html):
         result += f"{numbers[i].text}\n{riddles[i].text.strip()}\nОтвет: {correct_answer[i].text}"
         result += "\n---------------------------------------------------------------------\n"
     save_file("result.txt", result)
-    print(f"[INFO] File result.txt Save in Work Dirrecrory, have a good day!)")
+    print(f"[INFO] File result.txt Save in Work Dirrectory, have a good day!)")
     time.sleep(5)
 
 
