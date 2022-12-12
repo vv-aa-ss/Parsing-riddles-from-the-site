@@ -1,1 +1,2 @@
-Парсинг загадок с сайта - https://zagadkivse.ru/hitrye-zagadki/
+Parsing riddles from the https://zagadkivse.ru/
+Парсинг загадок
